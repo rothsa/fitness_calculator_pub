@@ -1,0 +1,2 @@
+module FitnesscalculatorHelper
+end
