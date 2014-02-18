@@ -1,28 +1,27 @@
 == README
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running. Unfortunately, this is not a proper README as I 
+don't feel like working on that yet.
 
-Things you may want to cover:
+Basic Model
+----
+* User
+* MeasurementSet
 
-* Ruby version
+Basic Controlller
+----
 
-* System dependencies
+Basic Views
+----
+* Home Page
+* RESTful User page with previous measurements, CRUD option
+* CRUD measurement calc result page on submit
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ideal Views
+----
+* CSS! (This may not end well)
+* Home Page w/ez registration -> Logged in user page with previous measurements, CRUD
+* CRUD measurement set entry with automatic updates via javascript
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
